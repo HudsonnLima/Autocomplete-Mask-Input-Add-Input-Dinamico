@@ -1,1 +1,1 @@
-Campo input com autocomplete buscando do banco de dados, máscara input e campo input adicionado automáticamente.
+Campo input com autocomplete buscando do banco de dados, máscara input no campo "preco" e campo input adicionado automáticamente.
